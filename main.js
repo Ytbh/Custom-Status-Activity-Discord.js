@@ -13,4 +13,4 @@ client.on('ready', () => {
     })
 });
 
-client.login('TOKEN');
+client.login('906467250901491722');
